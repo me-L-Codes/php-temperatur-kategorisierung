@@ -1,0 +1,1 @@
+# php-temperatur-kategorisierung
